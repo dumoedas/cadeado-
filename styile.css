@@ -34,3 +34,7 @@ padding: 24px;
 font-size: 24px;
 cursor: pointer;
 }
+.parametro-senha-botoes{
+    display: flex;
+    justify-content: center;
+}
